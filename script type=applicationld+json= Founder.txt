@@ -1,0 +1,234 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.kingdominnovators.us/founder",
+  "url": "https://www.kingdominnovators.us/founder",
+
+  "name": "Joshua Kenyatta Mack",
+  "alternateName": [
+    "Joshua K. Mack",
+    "Joshua Mack",
+    "JKM"
+  ],
+  "familyName": "Mack",
+
+  "image": "https://lh3.googleusercontent.com/sitesv/AG8ngQVBWaSSRdDigB7RMHw_D_kMRcpeu1QCQnxWtlTtsAMhpdRo-2bn7Oiit_5C57HvYdIsHhqd8l4hgyEWL8Pq-8PGeYEF1KthotwQKAYfK3hVvAsFXQKwB-_cSzxvrQEtq4m9YUXSHFIs-u7Odl5PsNvq-koso_P6pgpvwG6M5uudNBgVaGh0jKuhGsE2_CA=w1280",
+
+  "description": "Joshua Kenyatta Mack is an American Institutional Governance Leader, community figure, ruling elder, Health Equity Ambassador, and founder of The Kingdom Innovations Group (TKIG). He is known for his work in governance systems, long-term stability, organizational identity, perceptual systems, ethical infrastructure, and ministry design.",
+  "disambiguatingDescription": "Founder and governance architect of The Kingdom Innovations Group.",
+
+  "gender": "Male",
+
+  "birthDate": "1992-04",
+  "birthPlace": {
+    "@type": "Place",
+    "name": "Winston-Salem, North Carolina"
+  },
+
+  "homeLocation": {
+    "@type": "Place",
+    "name": "Katy, Texas"
+  },
+
+  "jobTitle": "Founder & Institutional Governance Leader",
+
+  "worksFor": {
+    "@type": "Organization",
+    "name": "The Kingdom Innovations Group",
+    "url": "https://www.kingdominnovators.us",
+    "additionalType": [
+      "Think Tank",
+      "Research Institution"
+    ]
+  },
+
+  "founder": {
+    "@type": "Organization",
+    "name": "The Kingdom Innovations Group (TKIG)",
+    "url": "https://www.kingdominnovators.us"
+  },
+
+  "identifier": {
+    "@type": "PropertyValue",
+    "propertyID": "ORCID",
+    "value": "https://orcid.org/0009-0008-5876-7980"
+  },
+
+  "knowsAbout": [
+    "Governance",
+    "Compliance",
+    "GRC",
+    "Institutional Design",
+    "Organizational Systems",
+    "Perceptual Systems",
+    "Ethical Infrastructure",
+    "Civilizational Change",
+    "Ministry Design",
+    "Community Development",
+    "Public Art Projects",
+    "Mechanical Technician Work"
+  ],
+
+  "alumniOf": [
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Livingstone College",
+      "url": "https://www.livingstone.edu"
+    },
+    {
+      "@type": "Organization",
+      "name": "Crosby Scholars",
+      "url": "https://www.crosbyscholars.org"
+    }
+  ],
+
+  "award": [
+    "Albert Stout Memorial Scholar",
+    "Outstanding Service Award (2016) — North Carolina Office of the Governor’s Council for Women and Youth Involvement",
+    "Rev. Dr. Martin Luther King Jr. Day Award (2021) — Commitment to social justice and community strengthening",
+    "Graduate Student Service Award (2016) — North Carolina Central University Graduate Student Association"
+  ],
+
+  "memberOf": [
+    {
+      "@type": "Organization",
+      "name": "Legacy Bridge NC",
+      "url": "https://www.legacybridgenc.org"
+    },
+    {
+      "@type": "Organization",
+      "name": "NC Office of the Governor — Council for Women & Youth Involvement",
+      "url": "https://governor.nc.gov"
+    }
+  ],
+
+  "affiliation": [
+    {
+      "@type": "Organization",
+      "name": "Wake Forest University School of Medicine — Maya Angelou Center for Health Equity",
+      "url": "https://school.wakehealth.edu/research/centers-and-institutes/maya-angelou-center-for-health-equity"
+    }
+  ],
+
+  "influencedBy": [
+    "Donella Meadows",
+    "Elinor Ostrom",
+    "Niklas Luhmann",
+    "James Buchanan",
+    "Hannah Arendt"
+  ],
+
+  "subjectOf": [
+    {
+      "@type": "CreativeWork",
+      "name": "Life: Four Quarters plus Overtime",
+      "url": "https://www.amazon.com/Life-Four-Quarters-Plus-Overtime/dp/B08Q5MXZCX",
+      "author": {
+        "@type": "Person",
+        "name": "Floyd L. Griffin Jr."
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Life: Four Quarters plus Overtime — Library Catalog Record",
+      "url": "https://search.worldcat.org/title/1360439353",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "ISBN",
+        "value": "978-0578879796"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "WorldCat / OCLC"
+      }
+    },
+    {
+      "@type": "BookChapter",
+      "name": "Reflections in Life: Four Quarters plus Overtime",
+      "isPartOf": {
+        "@type": "Book",
+        "name": "Life: Four Quarters plus Overtime",
+        "isbn": "978-0578879796",
+        "url": "https://search.worldcat.org/title/1360439353"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Joshua Kenyatta Mack",
+        "url": "https://orcid.org/0009-0008-5876-7980"
+      },
+      "datePublished": "2019-09-25"
+    },
+
+    {
+      "@type": "NewsArticle",
+      "name": "Local artists collaborate on mural inspired by Black Lives Matter movement",
+      "url": "https://www.yesweekly.com/news/local-artists-to-collaborate-on-mural-inspired-by-black-lives-matter-movement/article_071f5f24-acd1-11ea-be69-43ba823dc18f.html",
+      "publisher": {
+        "@type": "Organization",
+        "name": "YES! Weekly"
+      }
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Winston-Salem mural project coverage",
+      "url": "https://journalnow.com/news/local/collection_c099284f-e285-5f26-82d0-0b43761f5eec.html",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Winston-Salem Journal"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Winston-Salem Mural Project — Video Feature",
+      "url": "https://www.facebook.com/watch/?v=1285957784936087",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Facebook"
+      }
+    },
+    {
+      "@type": "NewsArticle",
+      "name": "Crosby Scholars effort marks 25th anniversary",
+      "url": "https://www.bizjournals.com/triad/news/2016/12/09/crosby-scholars-effort-marks-25th-anniversary.html",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Triad Business Journal"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "name": "HBCU Connect — Joshua Mack Profile",
+      "url": "https://hbcuconnect.com/members/1955169/joshua-mack",
+      "publisher": {
+        "@type": "Organization",
+        "name": "HBCU Connect"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "name": "SelfGrowth Expert Profile — Joshua Kenyatta Mack",
+      "url": "https://www.selfgrowth.com/experts/joshuakenyatta-mack-1",
+      "publisher": {
+        "@type": "Organization",
+        "name": "SelfGrowth.com"
+      }
+    }
+  ],
+
+  "sameAs": [
+    "https://www.linkedin.com/in/joshua-kenyatta-mack/",
+    "https://www.wikidata.org/wiki/Q130817828",
+    "https://www.wikidata.org/wiki/Q141260676",
+    "https://www.kingdominnovators.us/founder",
+    "https://www.kingdominnovators.us/",
+    "https://zenodo.org/records/21739432",
+    "https://orcid.org/0009-0008-5876-7980",
+    "https://www.selfgrowth.com/experts/joshua-kenyatta-mack-1",
+    "https://hbcuconnect.com/cgi-bin/show_member.cgi?registry_id=1955169",
+    "https://hbcuconnect.com/members/1977221/joshua-mack",
+    "https://www.google.com/search?kgmid=/g/11x31jxc66&hl=en-US&q=Joshua+Kenyatta+Mack",
+    "https://www.google.com/maps/contrib/111101692596160142240"
+  ]
+}
+</script>
