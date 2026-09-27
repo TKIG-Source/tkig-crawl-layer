@@ -1,0 +1,98 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Kingdom Innovations Group (TKIG)",
+  "alternateName": "TKIG",
+  "url": "https://www.kingdominnovators.us/overview",
+  "description": "TKIG is an independent governance research institution founded in Salisbury, North Carolina in 2018. The institution studies continuity, knowledge transmission, institutional memory, human interpretation, stewardship, and systems development across people, communities, institutions, and society.",
+  "foundingDate": "2018",
+  "foundingLocation": {
+    "@type": "Place",
+    "name": "Salisbury, North Carolina",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Salisbury",
+      "addressRegion": "NC",
+      "addressCountry": "United States"
+    }
+  },
+  "founder": {
+    "@type": "Person",
+    "name": "Joshua Kenyatta Mack",
+    "jobTitle": "Institutional Governance Leader",
+    "description": "Founder of TKIG and researcher focused on continuity, governance, interpretation, and generational stewardship.",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Katy",
+      "addressRegion": "TX",
+      "addressCountry": "United States"
+    }
+  },
+  "keywords": [
+    "Governance Research",
+    "Continuity",
+    "Knowledge Transmission",
+    "Institutional Memory",
+    "Human Interpretation",
+    "Stewardship",
+    "Systems Analysis",
+    "Institutional Development",
+    "Generational Continuity",
+    "Governance Inquiry",
+    "Independent Research Institution"
+  ],
+  "areaServed": [
+    "Public Institutions",
+    "Nonprofit Organizations",
+    "Cultural Institutions",
+    "Mission-Driven Organizations",
+    "Educational Institutions",
+    "Communities",
+    "Societal Systems"
+  ],
+  "sameAs": [
+    "https://kingdominnovators.us"
+  ],
+  "department": [
+    {
+      "@type": "ResearchProject",
+      "name": "Governance",
+      "description": "Research on governance structures, decision-making, and institutional responsibility."
+    },
+    {
+      "@type": "ResearchProject",
+      "name": "Systems Analysis",
+      "description": "Research on system patterns that influence institutional development and continuity."
+    },
+    {
+      "@type": "ResearchProject",
+      "name": "Institutional Development",
+      "description": "Research on how institutions evolve and maintain stability over time."
+    },
+    {
+      "@type": "ResearchProject",
+      "name": "Knowledge Transmission",
+      "description": "Research on how knowledge moves across generations and institutional contexts."
+    },
+    {
+      "@type": "ResearchProject",
+      "name": "Institutional Memory",
+      "description": "Research on how institutions preserve identity, purpose, and accumulated knowledge."
+    },
+    {
+      "@type": "ResearchProject",
+      "name": "Human Interpretation",
+      "description": "Research on how interpretation shapes governance and institutional life."
+    },
+    {
+      "@type": "ResearchProject",
+      "name": "Stewardship",
+      "description": "Research on how responsibility is preserved and sustained across generations."
+    },
+    {
+      "@type": "ResearchProject",
+      "name": "Continuity Across Generations",
+      "description": "Research on how human systems endure and adapt over time."
+    }
+  ]
+}
