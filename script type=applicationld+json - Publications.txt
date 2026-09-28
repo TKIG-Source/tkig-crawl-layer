@@ -1,0 +1,42 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "@id": "https://www.kingdominnovators.us/publications",
+  "name": "Publications — Joshua Kenyatta Mack",
+  "url": "https://www.kingdominnovators.us/publications",
+
+  "about": {
+    "@id": "https://www.kingdominnovators.us/#joshua-kenyatta-mack"
+  },
+
+  "hasPart": [
+    {
+      "@type": "CreativeWork",
+      "name": "White Paper Title",
+      "description": "Governance-aligned conceptual white paper outlining structural principles within the author's institutional ecosystem.",
+      "url": "https://zenodo.org/records/21739432",
+      "identifier": "doi:10.5281/zenodo.21739432",
+      "publisher": {
+        "@id": "https://www.kingdominnovators.us/#tkig"
+      },
+      "author": {
+        "@id": "https://www.kingdominnovators.us/#joshua-kenyatta-mack"
+      }
+    },
+
+    {
+      "@type": "Book",
+      "name": "Life: Four Quarters Plus Overtime",
+      "url": "https://www.amazon.com/Life-Four-Quarters-Plus-Overtime/dp/B08Q5MXZCX",
+      "author": {
+        "@type": "Person",
+        "name": "Floyd L. Griffin Jr."
+      },
+      "about": {
+        "@id": "https://www.kingdominnovators.us/#joshua-kenyatta-mack"
+      }
+    }
+  ]
+}
+</script>
