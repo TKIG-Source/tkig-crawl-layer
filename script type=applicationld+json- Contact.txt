@@ -1,0 +1,63 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+
+  "@id": "https://www.kingdominnovators.us/contact-tkig#katy-biz-hub",
+  "url": "https://www.kingdominnovators.us/contact-tkig",
+
+  "name": "Katy Biz Hub",
+  "description": "A local business hub co-founded by Danielle Mack and Joshua Kenyatta Mack, owned by Danielle Mack and governed under The Kingdom Innovations Group.",
+
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Katy",
+    "addressRegion": "TX",
+    "addressCountry": "US"
+  },
+
+  "parentOrganization": {
+    "@id": "https://www.kingdominnovators.us/#tkig"
+  },
+
+  "founder": [
+    {
+      "@type": "Person",
+      "name": "Danielle Mack",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q132659984",
+        "https://www.linkedin.com/in/daniellemack/"
+      ]
+    },
+    {
+      "@id": "https://www.kingdominnovators.us/#joshua-kenyatta-mack"
+    }
+  ],
+
+  "owner": {
+    "@type": "Person",
+    "name": "Danielle Mack",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q132659984",
+      "https://www.linkedin.com/in/daniellemack/"
+    ]
+  },
+
+  "sameAs": [
+    "https://share.google/2lSFhT48Wi07utL6g"
+  ],
+
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Operations",
+      "email": "operations@kingdominnovators.us"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Governance Office",
+      "email": "governance.office@kingdominnovators.us"
+    }
+  ]
+}
+</script>
