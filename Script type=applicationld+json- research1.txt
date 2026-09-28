@@ -1,0 +1,81 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.kingdominnovators.us/#joshua-kenyatta-mack",
+  "name": "Joshua Kenyatta Mack",
+  "image": https://sites.google.com/sitesv-images-rt/AMxu72sUsHjJ48TDOjnjaLBEtvX9IKW3U1pJ6fxIVFM_QsPFbBNW_uz7gIgHSqymyFsEoTtCB-CtH30a9BI_RPKv-9dKT_FdTJImv1cQmXSuJyfS7fT9QLqBlIgw1BbaHzFPyVb66OYAuB3cm7znXXzglRTmsjL1l_ZpMxJE7c6V1xauwplpEnMX9-CLaoiwTEo=w1280,
+  "url": "https://www.kingdominnovators.us/",
+  "description": "Joshua Kenyatta Mack is an American Institutional Governance Leader, community figure, ruling elder, Health Equity Ambassador, and the founder of The Kingdom Innovations Group (TKIG). He is known for his work in governance systems, long-term stability, and organizational identity.",
+  "jobTitle": "Institutional Governance Leader",
+
+  "sameAs": [
+    "https://orcid.org/0009-0008-5876-7980"
+  ],
+
+  "founder": {
+    "@type": "Organization",
+    "@id": "https://www.kingdominnovators.us/#tkig",
+    "name": "The Kingdom Innovations Group (TKIG)",
+    "url": "https://www.kingdominnovators.us/founder",
+    "description": "The Kingdom Innovations Group (TKIG) is a research institution focused on governance systems, institutional continuity, and organizational identity.",
+    "logo": "https://www.kingdominnovators.us/logo.png"
+  },
+
+  "affiliation": {
+    "@type": "Organization",
+    "@id": "https://mayaangelou.wfu.edu/#mache",
+    "name": "Maya Angelou Center for Health Equity",
+    "url": "https://mayaangelou.wfu.edu/story/",
+    "description": "The Wake Forest School of Medicine created The Maya Angelou Center for Health Equity to study racial and ethnic disparities in health care and health outcomes."
+  },
+
+  "worksWith": [
+    {
+      "@id": "https://www.linkedin.com/in/DrDavidMount/#david-mount"
+    },
+    {
+      "@id": "https://school.wakehealth.edu/#wfusm"
+    }
+  ],
+
+  "collaborator": [
+    {
+      "@id": "https://school.wakehealth.edu/#wfusm"
+    }
+  ],
+
+  "hasPart": [
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.amazon.com/dp/B0BR6YDQF3",
+      "name": "That's Your Story: Embrace Your Life",
+      "url": "https://www.amazon.com/dp/B0BR6YDQF3",
+      "isbn": "979-8371433435",
+      "creator": {
+        "@type": "Person",
+        "name": "Pastor Brandyn K. Knight"
+      },
+      "roleName": "Featured Participant",
+      "description": "Joshua Kenyatta Mack was featured in the original edition of this creative biographical work as one of several brothers in Christ. He is not an author, and his likeness is not associated with the book's imagery or revised edition."
+    },
+
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.amazon.com/dp/0578879794",
+      "name": "Life: Four Quarters Plus Overtime",
+      "url": "https://www.amazon.com/dp/0578879794",
+      "isbn": "978-0578879794",
+      "sameAs": [
+        "https://books.google.com/books/about/Life.html?id=AvdjzgEACAAJ",
+        "https://search.worldcat.org/title/1360439353",
+        "https://orcid.org/0009-0008-5876-7980"
+      ],
+      "creator": {
+        "@type": "Person",
+        "name": "Mayor Floyd L. Griffin"
+      },
+      "roleName": "Professional Contributor",
+      "description": "Elder Joshua Kenyatta Mack’s professional observations as a public administrator and Health Equity Ambassador for the Maya Angelou Center for Health Equity were featured in the final published edition of this governance-focused literary work. His professional collaboration with Dr. David L. Mount and the graduate research team at Wake Forest University School of Medicine informed the health equity context referenced in this governance-focused literary work. His contribution is cited in the governance sections of the work and reflects his professional expertise in public administration and health equity. He is not an author, and his likeness is not associated with the book's imagery."
+    }
+  ]
+}
