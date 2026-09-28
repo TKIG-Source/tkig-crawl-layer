@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.linkedin.com/in/joshua-kenyatta-mack/",
+  "name": "Joshua Kenyatta Mack",
+  "jobTitle": "Institutional Governance Leader",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "The Kingdom Innovations Group (TKIG)",
+    "url": "https://www.kingdominnovators.us"
+  },
+  "knows": {
+    "@id": "https://www.linkedin.com/in/kmosharp/",
+    "description": "Professional affirmation from Kendra Sharp Deas, Ph.D., Director of Strategy Development at the UNCF Institute for Capacity Building and Clark Atlanta ELI Fellow, recognizing Joshua’s systems-aware governance clarity and stabilizing presence within the shared domain of institutional capacity building."
+  }
+}
