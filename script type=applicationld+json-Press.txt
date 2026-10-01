@@ -1,0 +1,24 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://press.kingdominnovators.us/#tkig-press",
+  "name": "TKIG Press",
+  "alternateName": "The Kingdom Innovations Group Press",
+  "url": "https://press.kingdominnovators.us/",
+  "description": "TKIG Press is the publishing imprint of The Kingdom Innovations Group, publishing research, books, manuscripts, papers, and other works associated with the institution's research program.",
+
+  "parentOrganization": {
+    "@id": "https://www.kingdominnovators.us/#tkig"
+  },
+
+  "subjectOf": {
+    "@type": "WebPage",
+    "@id": "https://www.kingdominnovators.us/publications",
+    "url": "https://www.kingdominnovators.us/publications",
+    "name": "Publications"
+  },
+
+  "email": "press@kingdominnovators.us"
+}
+</script>
