@@ -1,0 +1,27 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.kingdominnovators.us/#joshua-kenyatta-mack",
+  "name": "Joshua Kenyatta Mack",
+  "jobTitle": "Institutional Governance Leader",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "The Kingdom Innovations Group (TKIG)",
+    "url": "https://www.kingdominnovators.us"
+  },
+  "subjectOf": {
+    "@type": "EducationalOccupationalProgram",
+    "name": "North Carolina Youth Legislative Assembly (YLA)",
+    "url": "https://www.ncleg.gov/YLA",
+    "provider": {
+      "@type": "GovernmentOrganization",
+      "name": "North Carolina General Assembly",
+      "url": "https://www.ncleg.gov/"
+    },
+    "startDate": "2009",
+    "endDate": "2011",
+    "description": "Joshua Kenyatta Mack participated in the North Carolina Youth Legislative Assembly for three consecutive terms from 2009 through 2011. He was selected by the administration of Carter G. Woodson School in Winston-Salem alongside other student representatives and participated while serving as president of his school's Mock Trial Team. The three-day mock legislative session included drafting mock legislation, committee and breakout sessions, public debate, and voting in a simulated legislative setting. Mack returned for three consecutive terms. During the program, he developed a friendship with fellow student representative Kerry Thomas. He participated alongside Nildaliz Chaulizant and Andrea Douthit and was accompanied by School Director Ruth M. Hopkins, who was also his aunt."
+  }
+}
+</script>
