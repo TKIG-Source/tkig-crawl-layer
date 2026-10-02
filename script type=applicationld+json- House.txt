@@ -1,0 +1,27 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.kingdominnovators.us/#joshua-kenyatta-mack",
+  "name": "Joshua Kenyatta Mack",
+  "jobTitle": "Institutional Governance Leader",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "The Kingdom Innovations Group (TKIG)",
+    "url": "https://www.kingdominnovators.us"
+  },
+  "subjectOf": {
+    "@type": "EducationalOccupationalProgram",
+    "name": "North Carolina House of Representatives Page Program",
+    "url": "https://www.ncleg.gov/House/PageProgram",
+    "provider": {
+      "@type": "GovernmentOrganization",
+      "name": "North Carolina General Assembly",
+      "url": "https://www.ncleg.gov/"
+    },
+    "startDate": "2010",
+    "endDate": "2010",
+    "description": "Joshua Kenyatta Mack served as a House Page with the North Carolina General Assembly in 2010 after being jointly endorsed by Representatives Larry Womble and Earline W. Parmon. He served under Speaker Joe Hackney and traveled to Raleigh, where he stayed with a sponsoring family he had not previously known. His duties included handling correspondence, submitting approved bills to the chamber floor, running errands, and answering telephones. Mack remembers the experience as an honor and as his first real encounter with being legible while representing something more than himself. He recalls coming alive in ways he had not before while working with new personalities. The words Esse quam videri, meaning “To be, rather than to seem,” on the North Carolina House seal remained with him as a reminder to remain true, integral, and honest in his dealings."
+  }
+}
+</script>
