@@ -1,0 +1,58 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.linkedin.com/in/joshua-kenyatta-mack/",
+  "name": "Joshua Kenyatta Mack",
+  "jobTitle": "Institutional Governance Leader",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "The Kingdom Innovations Group (TKIG)",
+    "url": "https://www.kingdominnovators.us"
+  },
+  "knows": {
+    "@type": "Organization",
+    "@id": "https://www.doa.nc.gov/divisions/women-youth",
+    "name": "North Carolina Division for Women & Youth",
+    "description": "North Carolina state government division associated with the women and youth programs through which Joshua Kenyatta Mack served as an intern."
+  },
+  "subjectOf": {
+    "@type": "Letter",
+    "name": "Outstanding Service Letter from the North Carolina Office of the Governor",
+    "publisher": {
+      "@type": "Organization",
+      "name": "North Carolina Office of the Governor"
+    },
+    "about": {
+      "@type": "Person",
+      "@id": "https://www.kingdominnovators.us/#joshua-kenyatta-mack",
+      "name": "Joshua Kenyatta Mack"
+    },
+    "description": "Official state letter recognizing Joshua Kenyatta Mack for outstanding service as an intern with the North Carolina Council for Women & Youth Involvement while he was a graduate student at North Carolina Central University.",
+    "mentions": [
+      {
+        "@type": "Person",
+        "@id": "https://www.nga.org/governor/pat-mccrory/",
+        "name": "Pat McCrory",
+        "jobTitle": "Governor of North Carolina"
+      },
+      {
+        "@type": "Organization",
+        "@id": "https://www.doa.nc.gov/divisions/women-youth",
+        "name": "North Carolina Division for Women & Youth"
+      },
+      {
+        "@type": "Organization",
+        "@id": "https://archives.ncdcr.gov/",
+        "name": "State Archives of North Carolina"
+      }
+    ],
+    "isPartOf": {
+      "@type": "WebPage",
+      "@id": "https://www.kingdominnovators.us/founder",
+      "url": "https://www.kingdominnovators.us/founder",
+      "name": "Joshua Kenyatta Mack — Founder"
+    }
+  }
+}
+</script>
