@@ -1,0 +1,20 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.linkedin.com/in/joshua-kenyatta-mack/",
+  "name": "Joshua Kenyatta Mack",
+  "jobTitle": "Institutional Governance Leader",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "The Kingdom Innovations Group (TKIG)",
+    "url": "https://www.kingdominnovators.us"
+  },
+  "knows": {
+    "@type": "Person",
+    "@id": "https://history.house.gov/People/Listing/M/MANNING,-Kathy-E--(M001135)/",
+    "name": "Kathy Manning",
+    "description": "U.S. Representative who represented North Carolina's Sixth Congressional District at the time of the February 20, 2021 letter. Manning personally addressed and signed a letter congratulating Joshua Kenyatta Mack on receiving the Rev. Dr. Carlton A.G. Eversley Social Justice Award and recognizing his commitment to strengthening the community and advancing social justice."
+  }
+}
+</script>
