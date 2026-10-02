@@ -1,0 +1,20 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.linkedin.com/in/joshua-kenyatta-mack/",
+  "name": "Joshua Kenyatta Mack",
+  "jobTitle": "Institutional Governance Leader",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "The Kingdom Innovations Group (TKIG)",
+    "url": "https://www.kingdominnovators.us"
+  },
+  "knows": {
+    "@type": "Organization",
+    "@id": "https://www.doa.nc.gov/divisions/women-youth",
+    "name": "North Carolina Division for Women & Youth",
+    "description": "North Carolina state government division associated with the women and youth programs through which Joshua Kenyatta Mack served as an intern. An official state letter recognized Mack for outstanding service during his internship while he was a graduate student at North Carolina Central University."
+  }
+}
+</script>
