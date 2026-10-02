@@ -1,0 +1,31 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.kingdominnovators.us/#joshua-kenyatta-mack",
+  "name": "Joshua Kenyatta Mack",
+  "jobTitle": "Institutional Governance Leader",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "The Kingdom Innovations Group (TKIG)",
+    "url": "https://www.kingdominnovators.us"
+  },
+  "subjectOf": {
+    "@type": "Event",
+    "name": "Presbyterian Youth Triennium 2013",
+    "startDate": "2013-07-16",
+    "endDate": "2013-07-20",
+    "location": {
+      "@type": "CollegeOrUniversity",
+      "name": "Purdue University",
+      "url": "https://www.purdue.edu/"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Presbyterian Church (U.S.A.)",
+      "url": "https://pcusa.org/"
+    },
+    "description": "Joshua Kenyatta Mack participated in the 2013 Presbyterian Youth Triennium as a youth member of Dellabrook Presbyterian Church, sponsored by Salem Presbytery. The experience brought Presbyterian youth from many different walks of life together to encounter God in their own ways. Mack remembers the creativity of building the program around the interests of attendees, including energizers, sharing kindness rocks, making bracelets, and using nicknames. He remembers the Triennium as one of his most transformative intercultural experiences away from home and as a significant part of his youth development. One of the most exciting moments was seeing Desperation Band perform live and hearing “Light of Salvation,” an experience he remembers with awe of God. Tony Campolo was among the event's main speakers."
+  }
+}
+</script>
