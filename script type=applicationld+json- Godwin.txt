@@ -1,0 +1,20 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.linkedin.com/in/joshua-kenyatta-mack/",
+  "name": "Joshua Kenyatta Mack",
+  "jobTitle": "Institutional Governance Leader",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "The Kingdom Innovations Group (TKIG)",
+    "url": "https://www.kingdominnovators.us"
+  },
+  "knows": {
+    "@type": "Person",
+    "@id": "https://www.linkedin.com/in/dr-cherese-godwin-40815a378/",
+    "name": "Dr. Cherése Godwin",
+    "description": "Professional affirmation from Dr. Cherése Godwin, CEO and Director of Policy, International Development & Social Impact at Leverage, Visiting Professor at Chamberlain University, and former Chairperson and Associate Professor of Social Work at Livingstone College. Dr. Godwin's recommendation recognizes Joshua Mack's diligence, leadership, initiative, community engagement, academic performance, and demonstrated ability in a professional helping-agency setting."
+  }
+}
+</script>
