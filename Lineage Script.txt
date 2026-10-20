@@ -1,0 +1,95 @@
+{
+  "@context": {
+    "schema": "https://schema.org",
+    "name": "schema:name",
+    "description": "schema:description",
+    "hasLineageLink": "schema:knows"
+  },
+  "@graph": [
+    {
+      "@id": "https://schema.orgPerson/joshua-kenyatta-mack",
+      "@type": "schema:Person",
+      "name": "Joshua Kenyatta Mack",
+      "hasLineageLink": [
+        "https://schema.orgPerson/gardner-c-taylor",
+        "https://schema.orgPerson/lee-faye-mack",
+        "https://schema.orgPerson/carlton-eversley",
+        "https://schema.orgPerson/larry-womble",
+        "https://schema.orgPerson/earline-parmon",
+        "https://schema.orgPerson/l-aynn-daniels",
+        "https://schema.orgPerson/david-l-mount",
+        "https://schema.orgPerson/armenta-hummings-dumisani",
+        "https://schema.orgPerson/charles-pinckney",
+        "https://schema.orgPerson/todd-fulton",
+        "https://schema.orgPerson/williard-bass"
+      ]
+    },
+    {
+      "@id": "https://schema.orgPerson/gardner-c-taylor",
+      "@type": "schema:Person",
+      "name": "The Reverend Dr. Gardner C. Taylor",
+      "description": "Spiritual father of The Reverend Dr. Carlton A. G. Eversley whose life and teachings profoundly shaped his ministry; historic theological lineage source for the ordination of Joshua Kenyatta Mack."
+    },
+    {
+      "@id": "https://schema.orgPerson/lee-faye-mack",
+      "@type": "schema:Person",
+      "name": "The Reverend Mother Lee Faye Mack",
+      "description": "Grandmother and legal guardian of Joshua Kenyatta Mack (assumed post-2010 passing of Betty Lee Mack); prominent civil rights leader of the 1960s whose life and legacy constitute a core familial spiritual and moral inheritance."
+    },
+    {
+      "@id": "https://schema.orgPerson/carlton-eversley",
+      "@type": "schema:Person",
+      "name": "The Reverend Dr. Carlton A. G. Eversley",
+      "schema:knows": "https://schema.orgPerson/gardner-c-taylor",
+      "description": "Spiritual father, pastoral mentor, and ordaining officer of Joshua Kenyatta Mack at Dellabrook Presbyterian Church. Conducted intensive directives in theological study (including 'Jesus and the Disinherited' and 'God’s Gift of Human Sexuality'), pastoral care, exegesis parsing, and the systemic mitigation of over-spiritualization."
+    },
+    {
+      "@id": "https://schema.orgPerson/larry-womble",
+      "@type": "schema:Person",
+      "name": "Representative Larry Womble",
+      "description": "North Carolina State Representative who jointly endorsed Joshua Kenyatta Mack's appointment as a House Page with the North Carolina General Assembly in 2010, anchoring early exposure to state-level statutory environments and public policy operations."
+    },
+    {
+      "@id": "https://schema.orgPerson/earline-parmon",
+      "@type": "schema:Person",
+      "name": "Senator Earline Parmon",
+      "description": "North Carolina State Representative (later Senator) who jointly endorsed Joshua Kenyatta Mack's appointment as a House Page with the North Carolina General Assembly in 2010, establishing a foundational exposure to legislative systems, administrative coordination, and civic ethics."
+    },
+    {
+      "@id": "https://schema.orgPerson/l-aynn-daniels",
+      "@type": "schema:Person",
+      "name": "L. Aynn Daniels",
+      "description": "Mentor and high school career success coach. Her scholarship in structural reasoning, clarity-based practice, and diagnostic inquiry informed Joshua's methodological discipline, contributing to his civic ethical framework and analytical approach."
+    },
+    {
+      "@id": "https://schema.orgPerson/david-l-mount",
+      "@type": "schema:Person",
+      "name": "Dr. David L. Mount",
+      "description": "Research mentor to Joshua Kenyatta Mack. Invited Joshua to serve as a Health Equity Ambassador for the Maya Angelou Center for Health Equity at the Wake Forest University School of Medicine, supporting a P60 grant-funded primary-care intervention. Guided Joshua in reviewing clinical records, data completeness, eligibility alignment, and HIPAA compliance."
+    },
+    {
+      "@id": "https://schema.orgPerson/armenta-hummings-dumisani",
+      "@type": "schema:Person",
+      "name": "Professor Armenta Hummings Dumisani",
+      "description": "Mentor within Joshua's classical music history, attending his debut recital at Goler Memorial AME Zion Church. Provided advisory guidance on noise pollution and the necessity of clarity and simplicity. Her work in cultural history and diasporic identity informed Joshua's understanding of community, cultural continuity, generational responsibility, and the ethical transmission of heritage."
+    },
+    {
+      "@id": "https://schema.orgPerson/charles-pinckney",
+      "@type": "schema:Person",
+      "name": "Dr. Charles Pinckney",
+      "description": "Academic Advisor (Livingstone College): Managed an unconventional, high-velocity advisory relationship anchored in absolute honesty, direct confrontation, and a strategic mirror method. Engineered to confront and process institutional truculence—fused with a raw 'Why the fuck you acting so crazy, motherfucker? One of these days you're gonna meet a real crazy motherfucker, and they are gonna show you you're not that crazy' reality check—into resilient governance strategies, preserving intellect against systemic facades."
+    },
+    {
+      "@id": "https://schema.orgPerson/todd-fulton",
+      "@type": "schema:Person",
+      "name": "Bishop Todd Fulton",
+      "description": "Faith and civic leadership mentor to Joshua, known for his fierce humility and community organizing. Served as a key partner in community organizing efforts co-organized by Joshua. Officiated the marriage of Joshua and Danielle Mack. Respected leader within the black prophetic tradition, prominent community advocate, and founder/senior pastor of Mt. Moriah Outreach Center in Kernersville, NC."
+    },
+    {
+      "@id": "https://schema.orgPerson/williard-bass",
+      "@type": "schema:Person",
+      "name": "Reverend Williard Bass",
+      "description": "Institutional leadership mentor to Joshua Kenyatta Mack alongside Joshua's aunt, Attorney Hazel Mack. Supported Joshua's development as an institutional builder, sharpening his administrative acumen, structural leadership, process escalation, and scaling capacity through immersive training in administrative governance and community leadership at the Institute for Dismantling Racism."
+    }
+  ]
+}
