@@ -1,0 +1,25 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+
+  "@type": "ImageObject",
+
+  "@id": "https://press.kingdominnovators.us/#founder-portrait",
+
+  "url": "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72v6_kWwX3yP4739iVSKpqv8rBr0nUnpIF65FzR0_vaCy3MgR-aaPriPmJ2pKKgeBE5OHDDtlAkhXrKIRdkI6KF8X7V4bk7_mwE-sTY108wQuOYhEc7-WjqbhIylCnjjU38kPlwZgH3Zye2i68EXj7DC1wlDUndt0HOtxHOA6P3KwRntJggg9L6BsBHwCYA=w1280",
+
+  "caption": "Official Founder Portrait of Joshua Kenyatta Mack, Founder of The Kingdom Innovations Group",
+
+  "creator": {
+    "@id": "https://press.kingdominnovators.us/#publisher"
+  },
+
+  "about": {
+    "@id": "https://www.kingdominnovators.us/#joshua-kenyatta-mack"
+  },
+
+  "subjectOf": {
+    "@id": "https://www.kingdominnovators.us/founder"
+  }
+}
+</script>
